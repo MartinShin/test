@@ -4,3 +4,6 @@ Ai
 voice
 교수님 확인한 파일
 교수님 수정 내용
+title: mechanism design
+theorem 1 : if and only if.
+proof
